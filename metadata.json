@@ -1,0 +1,6 @@
+{
+  "name": "Voxtel Fault Management System",
+  "description": "Fault tracking and reporting management portal for Voxtel telecom infrastructure.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
